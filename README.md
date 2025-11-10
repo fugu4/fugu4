@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=fugu4&style=flat-square)
+![](https://raw.githubusercontent.com/fugu4/.github/workforce/github-contribution-grid-snake.svg)
 
 
 <!--

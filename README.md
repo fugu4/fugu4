@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+
 ## Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=fugu4&style=flat-square)
